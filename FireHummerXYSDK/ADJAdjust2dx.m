@@ -11,12 +11,6 @@
 
 #define CC_TARGET_PLATFORM CC_PLATFORM_IOS
 
-#include <map>
-#include <iostream>
-#include "ADJEvent2dx.h"
-#include "ADJConfig2dx.h"
-#include "AdjustAttribution2dx.h"
-
 extern const std::string ADJEnvironmentSandbox2dx;
 extern const std::string ADJEnvironmentProduction2dx;
 
